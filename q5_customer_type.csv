@@ -1,0 +1,5 @@
+customer_type,total_bookings,cancellations,cancellation_rate_pct,avg_daily_rate,avg_stay_nights
+Transient,89613,36514,40.750000000000,107.01,3.45
+Contract,4076,1262,30.960000000000,87.55,5.32
+Transient-Party,25124,6389,25.430000000000,86.09,3.06
+Group,577,59,10.230000000000,83.49,2.88

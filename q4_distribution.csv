@@ -1,0 +1,5 @@
+distribution_channel,total_bookings,avg_lead_time_days,avg_daily_rate,cancellation_rate_pct
+TA/TO,97870,115.1,103.29,41.030000000000
+Direct,14645,57.8,106.66,17.460000000000
+Corporate,6677,44.9,69.33,22.080000000000
+GDS,193,20.7,120.55,19.170000000000
